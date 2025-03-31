@@ -1,26 +1,48 @@
-# 👋 Hello, World! I'm Felipe Florentino Bezerra
+<h2 align="left">👋Hello, World! I'm Felipe Florentino Bezerra</h2>
 
-### 🚀 About Me
-I'm a passionate **Full-Stack Developer** with a strong focus on **Data Science**, **Tech in Education**, and **Technological Innovations**. My journey in tech is all about blending creativity with technical expertise to build impactful solutions.
+###
 
-- 🔭 **Exploring**: Python, Machine Learning, and Database Management.
-- 🌱 **Currently Learning**: Cibersegurança and Advanced Software Engineering techniques.
-- 🎯 **Looking to Collaborate On**: Educational projects, AI innovations, and tech solutions with a social impact.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=felipefbezerra&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=felipefbezerra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### 🛠️ Tech Stack & Tools
-- **Languages**: Python, SQL, HTML, CSS, JavaScript
-- **Frameworks & Libraries**: Pandas, Tkinter, Flask
-- **Databases**: MySQL, PostgreSQL, SQLite
-- **Other Tools**: Git, Docker, Linux
+###
 
-### 🌍 Let's Connect!
-I'm always open to collaborations and new ideas. Feel free to reach out:
-- 📧 **Email**: contato.felipefbezerra@gmail.com
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/felipe-florentino-bezerra/)
-  
-### ⚡ Fun Fact
-When I'm not coding, you'll find me exploring the intersection between **technology and social impact**, working on projects that empower education and communities.
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+</div>
 
----
+###
 
-Thanks for visiting my GitHub! Don't hesitate to explore my repositories and contribute! 😄
+<div align="center">
+  <a href="instagram.com/felipe.fbezerra" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="contato.felipefbezerra@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-florentino-bezerra/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipefbezerra/felipefbezerra/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipefbezerra/felipefbezerra/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/felipefbezerra/felipefbezerra/output/pacman-contribution-graph.svg">
+</picture>
+
+###
